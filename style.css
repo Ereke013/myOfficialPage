@@ -1,0 +1,126 @@
+a{
+	color:green;
+}
+#bdy{
+	background-image:2.jpg;
+}
+.table{
+	background-color:yellow;
+	color:green;
+	float:right;
+	padding:1px;
+	margin:1px;
+	border:10px solid red;
+	border-radius:10px;
+	width:200px;
+}
+.table3{
+	background-color:yellow;
+	color:green;
+	float:left;
+	padding:1px;
+	margin:1px;
+	border:10px solid red;
+	border-radius:10px;
+	width:200px;
+}
+.table2{
+	transform:scale(0.7);
+	transition:5s all;
+	background-color:white;
+	padding:1px;
+	margin-right:75%;
+	border:10px solid black;
+	padding:10px;
+	border-radius:50px;
+	opacity:0.5;
+	box-shadow:20px 20px 8px #000000;
+}
+.table2:hover{
+	background-color:red;
+	transform:rotate(-90deg) scale(0.7);
+	border:10px solid green;
+}
+#hh{
+	transform:scale(1);
+	transition:5s all;
+	color:white;
+	text-align:center;
+	font-family:Arial;
+}
+
+#hh2{
+	font-size:35px;
+	background-color:#245952;
+	transform:scale(1);
+	transition:5s all;
+	color:white;
+	text-align:center;
+	font-family:Arial;
+	border:5px solid black;
+	border-radius: 20px;
+	margin-right:25%;
+	opacity:0.8;
+	box-shadow:20px 20px 8px black;
+}
+#hh2:hover{
+	border-radius:70%;
+	background-color:red;
+	transform:rotate(-80deg) scale(0.7);
+}
+
+#hh3{
+	background-color:#245952;
+	transform:scale(1);
+	transition:2s all;
+	color:white;
+	text-align:center;
+	font-family:Arial;
+	border:7px solid black;
+	border-radius: 50px;
+	margin-left:20%;
+	margin-right:40%;
+	opacity:0.8;
+	box-shadow:20px 20px 8px black;
+}
+#hh3:hover{
+	background-color:red;
+	transform:rotate(-80deg) scale(0.7);
+}
+div{
+	margin-left:10px;
+	color:black;
+	font-family:Arial;
+}
+#hh2:hover{
+	background-color:red;
+	transform:rotate(-80deg) scale(0.7);
+}
+}
+.mm{
+	color:white;
+	font-size:50px;
+	background-color:black;
+	border:1px solid white;
+	size:50%;
+}
+#photo{
+	width:400px;
+	text-align:center;
+	padding:20px;
+}
+#photo:hover{
+	border:5px solid blue;
+	box-shadow:20px 20px 8px black;
+}
+#photo2{
+	height:400px;
+	width:500px;
+	margin-left:500px;
+	text-align:center;
+	padding:20px;
+}
+#photo2:hover{
+	border:5px solid white;
+	box-shadow:20px 20px 8px black;
+}
